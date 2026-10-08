@@ -1,0 +1,5 @@
+C:\Users\MINEDUCYT\Documents\ejercicios platcticos en C# 2\ejercicios platcticos en C# 2\obj\Debug\ejercicios platcticos en C# 2.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\ejercicios platcticos en C# 2\ejercicios platcticos en C# 2\obj\Debug\aguaportable.Form1.resources
+C:\Users\MINEDUCYT\Documents\ejercicios platcticos en C# 2\ejercicios platcticos en C# 2\obj\Debug\ejercicios_platcticos_en_C__2.Properties.Resources.resources
+C:\Users\MINEDUCYT\Documents\ejercicios platcticos en C# 2\ejercicios platcticos en C# 2\obj\Debug\ejercicios platcticos en C# 2.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Documents\ejercicios platcticos en C# 2\ejercicios platcticos en C# 2\obj\Debug\ejercicios platcticos en C# 2.csproj.CoreCompileInputs.cache
